@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/Youssef/IdeaProjects/SportFlow-main/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/Youssef/IdeaProjects/SportFlow-main/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/com/mysql/mysql-connector-j/9.2.0/mysql-connector-j-9.2.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-9.2.0.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/com/google/protobuf/protobuf-java/4.29.0/protobuf-java-4.29.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/protobuf-java-4.29.0.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.2.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-api-5.0.0.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/jakarta/validation/jakarta.validation-api/3.1.0/jakarta.validation-api-3.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.validation-api-3.1.0.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/hibernate-validator-8.0.1.Final.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jboss-logging-3.4.3.Final.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/classmate-1.5.1.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/glassfish/expressly/expressly/5.0.0/expressly-5.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/expressly-5.0.0.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/com/password4j/password4j/1.8.2/password4j-1.8.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/password4j-1.8.2.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/slf4j-api-2.0.12.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/io/github/cdimascio/java-dotenv/5.2.2/java-dotenv-5.2.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/java-dotenv-5.2.2.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.4.0/kotlin-stdlib-1.4.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/kotlin-stdlib-1.4.0.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.0/kotlin-stdlib-common-1.4.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/kotlin-stdlib-common-1.4.0.jar"/>
+    <PostResources base="C:/Users/Youssef/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/annotations-13.0.jar"/>
+    <PostResources base="C:/Users/Youssef/AppData/Roaming/JetBrains/IntelliJIdea2024.3/javascript/extLibs/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/http_cdn.jsdelivr.net_gh_alpinejs_alpine@v2.x.x_dist_alpine.js"/>
+  </Resources>
+</Context>
